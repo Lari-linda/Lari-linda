@@ -2,7 +2,7 @@
 
 Meu nome é Larissa Wisbeck
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,6 +11,12 @@ Meu nome é Larissa Wisbeck
 larissa.wisbeck.carvalho@escolaa.pr.gov.br
 
 @larissawisbeck
+
+![](https://media1.tenor.com/m/opEBWw0uddoAAAAd/umm.gif)
+
+
+
+
 
 
 
