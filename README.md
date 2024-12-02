@@ -12,7 +12,7 @@ larissa.wisbeck.carvalho@escolaa.pr.gov.br
 
 @larissawisbeck
 
-![](https://github.com/user-attachments/assets/e6ee0d4c-56d1-4bc7-851e-bed9e2a6b2ef)
+![](https://media1.tenor.com/m/Jo0PbgBIZzAAAAAC/chill-guy-my-new-character.gif)
 
 
 
